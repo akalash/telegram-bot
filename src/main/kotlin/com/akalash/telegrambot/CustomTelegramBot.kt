@@ -86,7 +86,5 @@ class CustomTelegramBot(
 }
 
 class CustomDefaultOptions : DefaultBotOptions() {
-    init {
-        baseUrl = "http://outer.fixfix.ru/bot"
-    }
+
 }
